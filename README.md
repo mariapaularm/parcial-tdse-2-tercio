@@ -1,1 +1,1 @@
-# parcial-tdse-2-tercio
+# Parcial TDSE Segundo Tercio
